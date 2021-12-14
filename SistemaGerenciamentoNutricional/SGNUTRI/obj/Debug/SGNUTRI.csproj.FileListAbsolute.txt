@@ -1,0 +1,590 @@
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CopyComplete
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Usuario.resources
+C:\Users\leona\source\repos\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Cliente.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Cliente.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Usuario.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CopyComplete
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\Matheus\Desktop\versão leo\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Produto.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CopyComplete
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.AssemblyReference.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Cliente.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Pedido.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Produto.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Produto_Adicionar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Usuario.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Pedido_Adicionar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.AssemblyReference.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Cliente.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Pedido.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Pedido_Adicionar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Produto.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Produto_Adicionar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Registrar_Usuario.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\ggznh\OneDrive\Área de Trabalho\Apresentação\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.cache
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.compiled
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\EnvDTE.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\stdole.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Estoque.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Cliente.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido_Adicionar.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto_Adicionar.resources
+C:\Users\Matheus\Desktop\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Usuario.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csprojAssemblyReference.cache
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\EnvDTE.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\stdole.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Estoque.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Cliente.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido_Adicionar.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto_Adicionar.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Usuario.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.cache
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.compiled
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\MatheusSGNUTRI\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CopyComplete
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\EnvDTE.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\stdole.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.AssemblyReference.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Clientes.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Estoque.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Cliente.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido_Adicionar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto_Adicionar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Usuario.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.compiled
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\ggznh\OneDrive\Área de Trabalho\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Funcionario.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csprojAssemblyReference.cache
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\EnvDTE.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\stdole.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Clientes.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Estoque.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Cliente.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido_Adicionar.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto_Adicionar.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Usuario.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Funcionario.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.cache
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.compiled
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\GustavoSGNUTRI\SGNUTRI (1)\SGNUTRI (1)\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe.config
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.exe
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\SGNUTRI.pdb
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\EnvDTE.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Google.Protobuf.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Zstandard.Net.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\stdole.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Memory.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Buffers.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\MySql.Data.xml
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Clientes.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Estoque.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Login.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Menu.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Cliente.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Pedido_Adicionar.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Produto_Adicionar.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Cadastro_Usuario.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Funcionario.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.ProgressBar.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.cache
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\RdlCompile.compiled
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.exe
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.pdb
+C:\Users\Matheus\Desktop\Ultima versão ate´agora\SGNUTRI\SistemaGerenciamentoNutricional\SGNUTRI\obj\Debug\SGNUTRI.Frm_Relatorio_Pedido.resources

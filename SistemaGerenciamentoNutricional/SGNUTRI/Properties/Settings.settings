@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SGNUTRI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="heroku_ba59f508f074af3ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=us-cdbr-east-04.cleardb.com;user id=b4c0c0c00ebaf9;database=heroku_ba59f508f074af3&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=us-cdbr-east-04.cleardb.com;user id=b4c0c0c00ebaf9;database=heroku_ba59f508f074af3</Value>
+    </Setting>
+    <Setting Name="heroku_ba59f508f074af3ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=us-cdbr-east-04.cleardb.com;user id=b4c0c0c00ebaf9;password=e6d4c5f6;database=heroku_ba59f508f074af3&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=us-cdbr-east-04.cleardb.com;user id=b4c0c0c00ebaf9;password=e6d4c5f6;database=heroku_ba59f508f074af3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
